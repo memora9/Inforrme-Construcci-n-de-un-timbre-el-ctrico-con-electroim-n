@@ -6,7 +6,8 @@ Objetivos Específicos:
 •	Usar como fuente de alimentación un circuito de corriente alterna y transfórmala en corriente continua.
 •	Crear un movimiento con el electroimán capaz de producir efecto sonoro similar a un timbre.
 
-![image](https://user-images.githubusercontent.com/93946423/156944632-1c2b7f1b-d996-417e-b140-e1205d3dc8af.png)
+![image](https://user-images.githubusercontent.com/93946423/156944863-8ebab911-9a1f-49a3-9597-0ebaa6b88eeb.png)
+
 
 
 3. MARCO TEÓRICO
@@ -15,5 +16,4 @@ Objetivos Específicos:
 
 •	Para el desarrollo de esta práctica, se procedió primero a construir la fuente de alimentación, usando un transformador de 120/220 V a 9 V (AC),el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, también se agregó un puente de diodios rectificadores para convertir la corriente alterna(AC) en corriente continua (CC), agregando también un condensador electrolítico de 220 microfaradios para almacenar la energía en forma de carga eléctrica.
 •	Como se muestra en la figura 1 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
-![image](https://user-images.githubusercontent.com/93946423/156944848-325f742f-f434-4495-8563-2ac4c3308333.png)
 
