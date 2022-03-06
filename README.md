@@ -7,6 +7,8 @@ Objetivos Específicos:
 •	Crear un movimiento con el electroimán capaz de producir efecto sonoro similar a un timbre.
 
 ![image](https://user-images.githubusercontent.com/93946423/156944632-1c2b7f1b-d996-417e-b140-e1205d3dc8af.png)
+
+
 3. MARCO TEÓRICO
 4. ![image](https://user-images.githubusercontent.com/93946423/156944702-8cb6aa59-6569-4745-bad0-e7b826b4e1f6.png)
 4. EXPLICACIÓN DEL PROCEDIMIENTO
