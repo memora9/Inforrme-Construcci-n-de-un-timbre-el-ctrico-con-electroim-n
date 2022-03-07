@@ -9,7 +9,7 @@ Objetivos Específicos:
 
 •	Usar como fuente de alimentación un circuito de corriente alterna y transfórmala en corriente continua.
 
-•	Crear un movimiento con el electroimán capaz de producir efecto sonoro similar a un timbre.
+•	Crear un circuito que al accionar al electroimán sea capaz de producir oscilaciones en el clavo y que a su vez golpe la tapa de metal creando efecto sonoro.
 
 ![image](https://user-images.githubusercontent.com/93946423/156944863-8ebab911-9a1f-49a3-9597-0ebaa6b88eeb.png)
 
