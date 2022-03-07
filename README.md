@@ -80,5 +80,15 @@ Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al e
 •	Una vez hecho las conexiones en la bobina, se procede a instalar el pulsador conectando con en el lado positivo de la fuente de alimentacion del protoboard. y el otro extremo en la punta del clavo.
 ![image](https://user-images.githubusercontent.com/93946423/157084495-e974ff22-9934-4495-a554-8fd67029490b.png)
 
+Al accionar el pulsador, el clavo es atraido por el electroiman,se interrumpe el contacto, se cesa la corriente en el electroimán y el clavo retrocede a su posición original. Allí vuelve a establecerse el contacto eléctrico, con lo que el electroimán vuelve a atraer al clavo, y así sucesivamente generando efecto sonoro.
+
+5.VIDEO
+
+https://www.youtube.com/watch?v=lUYACq4Lf6Y
+
+6.CONCLUSIONES 
+
+
+7.BIBLIOGRAFIA
 
 
