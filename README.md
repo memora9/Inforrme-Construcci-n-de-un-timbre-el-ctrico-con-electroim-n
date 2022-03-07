@@ -88,7 +88,9 @@ Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al e
 
 •	La parte inferior de la bobina es el lado positivo el cual se conecta con el segundo soporte que se instaló (cable rojo).
 
-![image](https://user-images.githubusercontent.com/93946423/157083901-cec34380-4262-4837-87e5-392e3cee89c5.png)
+
+![image](https://user-images.githubusercontent.com/93946423/157095079-52cfaefd-43de-4f01-a01a-68353e458552.png)
+
 
 •	Una vez hecho las conexiones en la bobina, se procede a instalar el pulsador conectando con en el lado positivo de la fuente de alimentacion del protoboard. y el otro extremo en la punta del clavo.
 
