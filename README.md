@@ -1,5 +1,6 @@
 
 Inforrme-Construcción de un timbre eléctrico con electroimán
+
 Objetivo General:
 
 •	Construcción  un timbre e3lectrico con un electroimán aplicando conocimiento de en electromagnetismo mismo que será clave para comprender el fenómeno ocurrido en la presente práctica.
