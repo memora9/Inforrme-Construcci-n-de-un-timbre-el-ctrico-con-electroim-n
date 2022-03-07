@@ -44,7 +44,7 @@ Objetivos Específicos:
 
 
 
-•	Como se muestra en la figura 1 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
+•	Como se muestra en la Ilustracion 3 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
  
 
 ![image](https://user-images.githubusercontent.com/93946423/157092497-f36fcace-4894-450b-bb54-989f69f61924.png)
