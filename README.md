@@ -54,9 +54,10 @@ Objetivos Específicos:
 •	Se procede a armar la bobina, con el tornillo el cual se dara >400 vueltas con el alambre de cobre #24 y se aislara con la cinta aislante para ajustar las espiras.
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
 
-•	La figura 2 muestra cómo quedaría la bobina, en este caso siendo el alambre superior el negativo y el inferior el positivo.
+•	La figura 4 muestra cómo quedaría la bobina, en este caso siendo el alambre superior el negativo y el inferior el positivo.
 
-![image](https://user-images.githubusercontent.com/93946423/157081191-db0c74ed-b797-4296-a0cd-964debebdb21.png)
+![image](https://user-images.githubusercontent.com/93946423/157092994-b8f730a5-1879-4425-90f1-60514e53738e.png)
+
 
 
 
