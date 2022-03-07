@@ -47,7 +47,8 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 
 •	Como se muestra en la figura 1 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
  
-![image](https://user-images.githubusercontent.com/93946423/156945665-9484beaa-e7eb-4c57-a78a-a9fcffb14e61.png) 
+![image](https://user-images.githubusercontent.com/93946423/157080904-9dd3dd44-32cf-4759-b50f-f10fc899b771.png)
+
 
 •	Se procede a armar la bobina, con el tornillo el cual se dara >400 vueltas con el alambre de cobre #24 y se aislara con la cinta aislante para ajustar las espiras.
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
