@@ -64,8 +64,7 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 •	Como se muestra en la figura 4 , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca 4 milímetros aproximadamente. 
 
 
-
-![image](https://user-images.githubusercontent.com/93946423/156945706-e26944de-9f5f-4d23-85f5-1a76bf87bdee.png)
+![image](https://user-images.githubusercontent.com/93946423/157081486-40aa92ca-f70d-4148-adcd-9e4c5c54e2cc.png)
 
 
 Una vez instalados los soportes, se instala un soporte de madera en el cual se colocará el fierro que servirá como efecto sonoro muy cerca pero no haciendo contacto con clavo de tal manera que este puede golpearlo y producir dicho efecto. 
