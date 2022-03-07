@@ -63,7 +63,9 @@ Objetivos Específicos:
 
 
 
-•	Se coloca un soporte de alambre de cobre grueso (cable rojo)  y se pega con silicon en la tabla triplex, pero se deja un extremo para posteriormente hacer nuestras conexiones, el soporte servirá para hacer contacto con el clavo que se colocara debajo del mismo soporte.
+•	Se coloca el primer soporte de alambre de cobre grueso (cable rojo)  y se pega con silicon en la tabla triplex, pero se deja una patita para mas adelante poder posteriormente hacer nuestras conexiones, el soporte servirá para hacer contacto con el clavo que se colocara debajo del mismo soporte.
+•	Se coloca el segundo soporte de alambre de cobre  grueso en donde ira colocado el clavo perpendicularmente con el soporte anterior instalado en la parte superior.
+•	Como se muestra en la figura 5 y 6 , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca, 4 milímetros aproximadamente. 
 
 ![image](https://user-images.githubusercontent.com/93946423/157093366-8bf6e7c8-d6f3-4e4f-8557-445962c16a1c.png)
 
