@@ -75,9 +75,10 @@ Objetivos Específicos:
 
 
 
-Una vez instalados los soportes de cobre rigido, se instala un soporte de madera en el cual se colocará la tapa de metal  que servirá como campana y al ser golpeada por el clavo pueda producir efecto sonor. 
+Una vez instalados los soportes de cobre rigido, se instala un soporte de madera en el cual se colocará la tapa de metal  que servirá como campana y al ser golpeada por el clavo pueda producir efecto sonoro. 
 
-![image](https://user-images.githubusercontent.com/93946423/157083301-2cd593a1-e4bf-4930-8677-94cf151444f5.png)
+![image](https://user-images.githubusercontent.com/93946423/157094629-29c84dec-ffb4-4c80-a312-62ae690b7a5c.png)
+
 
 
 Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al extremo superior dela bobina era el negativo y el de abajo el positivo entonces conectamos el negativo en la protoboard.
