@@ -20,28 +20,22 @@ Objetivos Específicos:
  
  
 4. EXPLICACIÓN DEL PROCEDIMIENTO
-se procede a armarlo, primero se realiza las conexiones del transformador con la corriente eléctrica alterna con la ayuda de los bornes y el cable de alimentación, posteriormente se conecta al protobard y se mide el voltaje (AC).
-•	Como se observa en la Ilustracion 5 el voltaje (AC) es de 11.6 Voltios y en la simulación un voltaje de 11.68 siendo los dos valores cercanos.
+Primeramente se realiza las conexiones del transformador con la corriente eléctrica alterna con la ayuda de los bornes y el cable de alimentación, posteriormente se conecta al protobard y se mide el voltaje (AC).
+
+•	Como se observa en la Ilustracion 5 el voltaje (AC) es de 11.6 Voltios.
 
 ![image](https://user-images.githubusercontent.com/93946423/157065724-6f6aba44-e9c7-49f8-b55b-1e753462875b.png)
 
 
 •	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
-•	En la Ilustracion 6 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
+•	En la Ilustracion 6 se observa  que el voltaje (CC) es de 10.22 Voltios.
 
 
 ![image](https://user-images.githubusercontent.com/93946423/157066212-371e7c46-ccac-45d0-9ce8-e2724a16afe9.png)
 
 
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
-•	En la Ilustracion 7 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
-
-
-
-
-
-
-
+•	En la Ilustracion 7 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC).
 
 
 
