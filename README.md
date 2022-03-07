@@ -54,7 +54,8 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
 •	La figura 2 muestra cómo quedaría la bobina, en este caso siendo el alambre superior el negativo y el inferior el positivo.
 
-![image](https://user-images.githubusercontent.com/93946423/156945677-0828d8c0-0391-4a68-9dcc-06b51853bae5.png)
+![image](https://user-images.githubusercontent.com/93946423/157081058-6908e645-a916-437d-9f2d-ee4589462beb.png)
+
 
 •	Se coloca un soporte de alambre de cobre grueso (cable rojo)  y se pega con silicon en la tabla triplex, pero se deja un extremo para posteriormente hacer nuestras conexiones, el soporte servirá para hacer contacto con el clavo que se colocara debajo del mismo soporte.
 
