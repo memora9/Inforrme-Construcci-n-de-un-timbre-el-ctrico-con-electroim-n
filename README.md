@@ -53,6 +53,7 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 
 •	Se procede a armar la bobina, con el tornillo el cual se dara >400 vueltas con el alambre de cobre #24 y se aislara con la cinta aislante para ajustar las espiras.
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
+
 •	La figura 2 muestra cómo quedaría la bobina, en este caso siendo el alambre superior el negativo y el inferior el positivo.
 
 ![image](https://user-images.githubusercontent.com/93946423/157081191-db0c74ed-b797-4296-a0cd-964debebdb21.png)
@@ -75,10 +76,13 @@ Una vez instalados los soportes, se instala un soporte de madera en el cual se c
 
 Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al extremo superior dela bobina era el negativo y el de abajo el positivo entonces conectamos el negativo en la protoboard.
 ![image](https://user-images.githubusercontent.com/93946423/157083231-95998d07-5a2a-44d2-a50b-5545ecc1d963.png)
+
 •	La parte inferior de la bobina es el lado positivo el cual se conecta con el segundo soporte que se instaló (cable rojo).
+
 ![image](https://user-images.githubusercontent.com/93946423/157083901-cec34380-4262-4837-87e5-392e3cee89c5.png)
 
 •	Una vez hecho las conexiones en la bobina, se procede a instalar el pulsador conectando con en el lado positivo de la fuente de alimentacion del protoboard. y el otro extremo en la punta del clavo.
+
 ![image](https://user-images.githubusercontent.com/93946423/157084495-e974ff22-9934-4495-a554-8fd67029490b.png)
 
 Al accionar el pulsador, el clavo es atraido por el electroiman,se interrumpe el contacto, se cesa la corriente en el electroimán y el clavo retrocede a su posición original. Allí vuelve a establecerse el contacto eléctrico, con lo que el electroimán vuelve a atraer al clavo, y así sucesivamente generando efecto sonoro.
