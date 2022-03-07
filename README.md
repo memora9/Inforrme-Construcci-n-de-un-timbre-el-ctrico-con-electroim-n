@@ -34,7 +34,8 @@ Objetivos Específicos:
 •	En la Ilustracion 6 se observa  que el voltaje (CC) es de 10.22 Voltios.
 
 
-![image](https://user-images.githubusercontent.com/93946423/157066212-371e7c46-ccac-45d0-9ce8-e2724a16afe9.png)
+![image](https://user-images.githubusercontent.com/93946423/157092326-0bbd64ba-1b94-49d8-92ef-9c56dec977c5.png)
+
 
 
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
