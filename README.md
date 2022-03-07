@@ -24,7 +24,8 @@ Primeramente se realiza las conexiones del transformador con la corriente eléct
 
 •	Como se observa en la Ilustracion 1 el voltaje (AC) es de 11.6 Voltios.
 
-![image](https://user-images.githubusercontent.com/93946423/157065724-6f6aba44-e9c7-49f8-b55b-1e753462875b.png)
+![image](https://user-images.githubusercontent.com/93946423/157091981-76c13c9f-0ff4-44e7-a705-2a96e96b91dd.png)
+
 
 
 •	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
