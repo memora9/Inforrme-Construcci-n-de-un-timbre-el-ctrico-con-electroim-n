@@ -78,6 +78,7 @@ Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al e
 ![image](https://user-images.githubusercontent.com/93946423/157083901-cec34380-4262-4837-87e5-392e3cee89c5.png)
 
 •	Una vez hecho las conexiones en la bobina, se procede a instalar el pulsador conectando con en el lado positivo de la fuente de alimentacion del protoboard. y el otro extremo en la punta del clavo.
-![image](https://user-images.githubusercontent.com/93946423/157084396-453acfa0-1aff-4f5a-a4df-2b33f6cbd9ea.png)
+![image](https://user-images.githubusercontent.com/93946423/157084495-e974ff22-9934-4495-a554-8fd67029490b.png)
+
 
 
