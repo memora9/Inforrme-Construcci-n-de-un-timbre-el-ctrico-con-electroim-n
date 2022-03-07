@@ -88,6 +88,7 @@ https://www.youtube.com/watch?v=lUYACq4Lf6Y
 
 6.CONCLUSIONES 
 
+Al apretar el pulsador de activación, la corriente circula a través del electroimán y este último atrae a sí mismo el clavo, el cual irá a golpear la campana, al acercarse el percusor al electroimán, el contacto móvil se abre, interrumpiendo la corriente en el circuito: así, el clavo se aparta y vuelve a su posición de reposo, el retorno del clavo a la posición de reposo provocará nuevamente el cierre del contacto con la tapa de metal provocando efecto sonoro.
 
 7.BIBLIOGRAFIA
 
