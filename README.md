@@ -19,6 +19,35 @@ Objetivos Específicos:
  
  
 4. EXPLICACIÓN DEL PROCEDIMIENTO
+se procede a armarlo, primero se realiza las conexiones del transformador con la corriente eléctrica alterna con la ayuda de los bornes y el cable de alimentación, posteriormente se conecta al protobard y se mide el voltaje (AC).
+•	Como se observa en la Ilustracion 5 el voltaje (AC) es de 11.6 Voltios y en la simulación un voltaje de 11.68 siendo los dos valores cercanos.
+
+![image](https://user-images.githubusercontent.com/93946423/157065724-6f6aba44-e9c7-49f8-b55b-1e753462875b.png)
+
+
+•	Se procede a instalar el puente rectificador de diodos  (1n4007) en la protoboard , de tal manera que queden en serie de forma cuadrangular, se mide el voltaje (CC) rectificado.
+•	En la Ilustracion 6 se observa  que el voltaje (CC) es de 10.22 Voltios mientras que en la simulación da como resultado 10.35 voltios.
+
+
+![image](https://user-images.githubusercontent.com/93946423/157066212-371e7c46-ccac-45d0-9ce8-e2724a16afe9.png)
+
+
+•	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
+•	En la Ilustracion 7 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 15.93 voltios (CC)  minetras que en la simulación da 15.81 Voltios aproximadamente.
+![image](https://user-images.githubusercontent.com/93946423/157067699-60de12fe-16c1-43e7-a7ae-287ad61e0d69.png)
+
+•	Finalmente se instala el potenciómetro de 10kOhms para regular el voltaje(CC)
+
+Como se observa en la Ilustracion 8 la perilla del potenciómetro está en su máximo valor, y el voltaje que arroja es de 15.22 voltios (CC), mientras que en el simulador fue 15.23 voltios (CC) siendo estos dos valores equivalentes.
+![image](https://user-images.githubusercontent.com/93946423/157068043-7f8620b0-b47a-4bcc-a88e-39771b846f9c.png)
+
+•	Tenemos una fuente de alimentación básica regulable que puede ir desde hasta 15 voltios.22 (CC) aproximadamente.
+
+
+
+
+
+
 
 •	Para el desarrollo de esta práctica, se procedió primero a construir la fuente de alimentación, usando un transformador de 120/220 V a 9 V (AC),el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, también se agregó un puente de diodios rectificadores para convertir la corriente alterna(AC) en corriente continua (CC), agregando también un condensador electrolítico de 220 microfaradios para almacenar la energía en forma de carga eléctrica.
 
