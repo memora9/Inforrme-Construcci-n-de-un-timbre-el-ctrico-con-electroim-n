@@ -94,3 +94,10 @@ Al apretar el pulsador de activación, la corriente circula a través del electr
 7.BIBLIOGRAFIA
 
 
+M.F.H.(2014). Cómo Hacer Un Timbre Casero (Fácil de hacer).
+
+https://www.youtube.com/watch?v=kke8Rg2yAkU
+
+Electronica Veneta.(s.f).Timbre electrico. 
+https://www.elettronicaveneta.com/wp-content/uploads/2019/10/FEB-45A-S-EM-3.pdf
+
