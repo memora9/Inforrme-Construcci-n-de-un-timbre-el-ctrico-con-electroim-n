@@ -82,7 +82,9 @@ Una vez instalados los soportes de cobre rigido, se instala un soporte de madera
 
 
 Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al extremo superior dela bobina era el negativo y el de abajo el positivo entonces conectamos el negativo en la protoboard.
-![image](https://user-images.githubusercontent.com/93946423/157083231-95998d07-5a2a-44d2-a50b-5545ecc1d963.png)
+
+![image](https://user-images.githubusercontent.com/93946423/157094849-4b2f3997-ad9a-4bd5-ae2d-c0320a278513.png)
+
 
 •	La parte inferior de la bobina es el lado positivo el cual se conecta con el segundo soporte que se instaló (cable rojo).
 
