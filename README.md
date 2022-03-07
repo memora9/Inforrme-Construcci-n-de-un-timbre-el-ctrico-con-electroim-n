@@ -69,8 +69,7 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 
 Una vez instalados los soportes, se instala un soporte de madera en el cual se colocará el fierro que servirá como efecto sonoro muy cerca pero no haciendo contacto con clavo de tal manera que este puede golpearlo y producir dicho efecto. 
 
-
-![image](https://user-images.githubusercontent.com/93946423/157081719-29ae9d0d-633b-4bc1-9659-5f8618507439.png)
-
+![image](https://user-images.githubusercontent.com/93946423/157083192-24430819-0d63-4ab9-8a86-a8475feb9b57.png)
 
 Una vez instalado todos los soportes, se hacen las conexiones, como sabemos al extremo superior dela bobina era el negativo y el de abajo el positivo entonces conectamos el negativo en la protoboard.
+
