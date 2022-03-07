@@ -8,6 +8,7 @@ Objetivo General:
 Objetivos Específicos:
 
 •	Usar como fuente de alimentación un circuito de corriente alterna y transfórmala en corriente continua.
+
 •	Crear un movimiento con el electroimán capaz de producir efecto sonoro similar a un timbre.
 
 ![image](https://user-images.githubusercontent.com/93946423/156944863-8ebab911-9a1f-49a3-9597-0ebaa6b88eeb.png)
