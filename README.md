@@ -29,6 +29,9 @@ Objetivos Específicos:
 
 •	Se coloca un soporte de alambre de cobre  grueso en donde ira el clavo perpendicularmente con el soporte anterior instalado en la parte superior.
 •	Como se muestra en la figura 4 , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca 4 milímetros aproximadamente. 
+
+
+
 ![image](https://user-images.githubusercontent.com/93946423/156945706-e26944de-9f5f-4d23-85f5-1a76bf87bdee.png)
 
 
