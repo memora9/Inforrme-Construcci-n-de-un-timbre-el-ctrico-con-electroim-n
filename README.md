@@ -64,20 +64,18 @@ Objetivos Específicos:
 
 
 •	Se coloca el primer soporte de alambre de cobre grueso (cable rojo)  y se pega con silicon en la tabla triplex, pero se deja una patita para mas adelante poder posteriormente hacer nuestras conexiones, el soporte servirá para hacer contacto con el clavo que se colocara debajo del mismo soporte.
+
 •	Se coloca el segundo soporte de alambre de cobre  grueso en donde ira colocado el clavo perpendicularmente con el soporte anterior instalado en la parte superior.
-•	Como se muestra en la figura 5 y 6 , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca, 4 milímetros aproximadamente. 
+
+
+•	Como se muestra en la figura 5 el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca, 4 milímetros aproximadamente. 
+
 
 ![image](https://user-images.githubusercontent.com/93946423/157093366-8bf6e7c8-d6f3-4e4f-8557-445962c16a1c.png)
 
 
-•	Se coloca un soporte de alambre de cobre  grueso en donde ira el clavo perpendicularmente con el soporte anterior instalado en la parte superior.
-•	Como se muestra en la figura  , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca 4 milímetros aproximadamente. 
 
-
-![image](https://user-images.githubusercontent.com/93946423/157081486-40aa92ca-f70d-4148-adcd-9e4c5c54e2cc.png)
-
-
-Una vez instalados los soportes, se instala un soporte de madera en el cual se colocará el fierro que servirá como efecto sonoro muy cerca pero no haciendo contacto con clavo de tal manera que este puede golpearlo y producir dicho efecto. 
+Una vez instalados los soportes de cobre rigido, se instala un soporte de madera en el cual se colocará la tapa de metal  que servirá como campana y al ser golpeada por el clavo pueda producir efecto sonor. 
 
 ![image](https://user-images.githubusercontent.com/93946423/157083301-2cd593a1-e4bf-4930-8677-94cf151444f5.png)
 
