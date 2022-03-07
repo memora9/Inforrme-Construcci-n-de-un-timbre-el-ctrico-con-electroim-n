@@ -68,3 +68,6 @@ se procede a armarlo, primero se realiza las conexiones del transformador con la
 
 
 Una vez instalados los soportes, se instala un soporte de madera en el cual se colocará el fierro que servirá como efecto sonoro muy cerca pero no haciendo contacto con clavo de tal manera que este puede golpearlo y producir dicho efecto. 
+
+
+![image](https://user-images.githubusercontent.com/93946423/157081719-29ae9d0d-633b-4bc1-9659-5f8618507439.png)
