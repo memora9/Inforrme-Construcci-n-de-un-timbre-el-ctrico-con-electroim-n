@@ -52,6 +52,8 @@ Objetivos Específicos:
 
 
 •	Se procede a armar la bobina, con el tornillo el cual se dara >400 vueltas con el alambre de cobre #24 y se aislara con la cinta aislante para ajustar las espiras.
+
+
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
 
 •	La figura 4 muestra cómo quedaría la bobina, en este caso siendo el alambre superior el negativo y el inferior el positivo.
@@ -63,8 +65,11 @@ Objetivos Específicos:
 
 •	Se coloca un soporte de alambre de cobre grueso (cable rojo)  y se pega con silicon en la tabla triplex, pero se deja un extremo para posteriormente hacer nuestras conexiones, el soporte servirá para hacer contacto con el clavo que se colocara debajo del mismo soporte.
 
+![image](https://user-images.githubusercontent.com/93946423/157093366-8bf6e7c8-d6f3-4e4f-8557-445962c16a1c.png)
+
+
 •	Se coloca un soporte de alambre de cobre  grueso en donde ira el clavo perpendicularmente con el soporte anterior instalado en la parte superior.
-•	Como se muestra en la figura 4 , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca 4 milímetros aproximadamente. 
+•	Como se muestra en la figura  , el clavo hace contacto con el cable rojo ,mas no, con el tornillo pero si se encuentra muy cerca 4 milímetros aproximadamente. 
 
 
 ![image](https://user-images.githubusercontent.com/93946423/157081486-40aa92ca-f70d-4148-adcd-9e4c5c54e2cc.png)
