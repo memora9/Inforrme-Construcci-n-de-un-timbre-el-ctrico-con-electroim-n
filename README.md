@@ -18,8 +18,8 @@ Objetivos Específicos:
 
 •	Para el desarrollo de esta práctica, se procedió primero a construir la fuente de alimentación, usando un transformador de 120/220 V a 9 V (AC),el cual permite modificar la potencia eléctrica de corriente alterna a un determinado valor de tensión, también se agregó un puente de diodios rectificadores para convertir la corriente alterna(AC) en corriente continua (CC), agregando también un condensador electrolítico de 220 microfaradios para almacenar la energía en forma de carga eléctrica.
 •	Como se muestra en la figura 1 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
-
-![image](https://user-images.githubusercontent.com/93946423/156945665-9484beaa-e7eb-4c57-a78a-a9fcffb14e61.png)
+ 
+![image](https://user-images.githubusercontent.com/93946423/156945665-9484beaa-e7eb-4c57-a78a-a9fcffb14e61.png) 
 
 •	Se procede a armar la bobina, con el tornillo el cual se dara >400 vueltas con el alambre de cobre #24 y se aislara con la cinta aislante para ajustar las espiras.
 •	Posteriormente se coloca el tornillo en la tabla triplex quedando parado.
