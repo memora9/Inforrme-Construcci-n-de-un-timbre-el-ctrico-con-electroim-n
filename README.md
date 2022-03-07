@@ -22,7 +22,7 @@ Objetivos Específicos:
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 Primeramente se realiza las conexiones del transformador con la corriente eléctrica alterna con la ayuda de los bornes y el cable de alimentación, posteriormente se conecta al protobard y se mide el voltaje (AC).
 
-•	Como se observa en la Ilustracion 5 el voltaje (AC) es de 11.6 Voltios.
+•	Como se observa en la Ilustracion 1 el voltaje (AC) es de 11.6 Voltios.
 
 ![image](https://user-images.githubusercontent.com/93946423/157065724-6f6aba44-e9c7-49f8-b55b-1e753462875b.png)
 
