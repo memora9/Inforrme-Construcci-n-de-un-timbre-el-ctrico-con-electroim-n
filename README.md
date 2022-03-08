@@ -45,13 +45,14 @@ Objetivos Específicos:
 
 
 •	Se conecta el condensador electrolítico de 220 microfaradios a 16 voltios  que almacenara la energía en forma de carga eléctrica.
+
+
 •	En la Ilustracion 3 se puede observar el voltaje medido una vez instalado el condensador, arroja un valor de 16.05 voltios (CC).
 
 
 
 
-•	Como se muestra en la Ilustracion 3 podemos ver que nuestro circuito nos produce una fuente de voltaje (CC) de 16.05 voltios
- 
+
 
 ![image](https://user-images.githubusercontent.com/93946423/157092497-f36fcace-4894-450b-bb54-989f69f61924.png)
 
