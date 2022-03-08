@@ -1,6 +1,8 @@
 
 Inforrme-Construcción de un timbre eléctrico con electroimán
 
+1.OBJETIVOS
+
 Objetivo General:
 
 •	Construcción  un timbre e3lectrico con un electroimán aplicando conocimiento de en electromagnetismo mismo que será clave para comprender el fenómeno ocurrido en la presente práctica.
@@ -11,11 +13,15 @@ Objetivos Específicos:
 
 •	Crear un circuito que al accionar al electroimán sea capaz de producir movmientos en el clavo y que a su vez golpe la tapa de metal creando efecto sonoro.
 
+
+2.MATERIAL Y EQUIPO REQUERIDO
+
 ![image](https://user-images.githubusercontent.com/93946423/156944863-8ebab911-9a1f-49a3-9597-0ebaa6b88eeb.png)
 
 
 
 3. MARCO TEÓRICO
+
  ![image](https://user-images.githubusercontent.com/93946423/156944702-8cb6aa59-6569-4745-bad0-e7b826b4e1f6.png)
  
  
@@ -103,6 +109,7 @@ Al accionar el pulsador, el clavo es atraido por el electroiman,se interrumpe el
 5.VIDEO
 
 https://www.youtube.com/watch?v=lUYACq4Lf6Y
+
 
 6.CONCLUSIONES 
 
